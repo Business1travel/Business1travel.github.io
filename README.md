@@ -1,2 +1,2 @@
-# Business1travel.github.io
+# Business1travel
 My first site
